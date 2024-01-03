@@ -1,10 +1,22 @@
-import React from "react";
-
+import Card from './Components/Card'
 const App = () => {
   return (
-   
-    <h1>Hello World</h1>
-   
+    <div>
+   <Card />
+   <Card />
+   <Card />
+   <Card />
+   <Card />
+   <Card />
+   <Card />
+   <Card />
+   <Card />
+   <Card />
+   <Card />
+   <Card />
+   <Card />
+   <Card />
+   <Card /></div>
   )
 }
 
