@@ -49,7 +49,7 @@ export default {
     2. Organized Styles and codes
 
 2. Shared/Utility Components
-    1. Card
+    1. ~~Card~~
     2. Table Tanstack
     3. Charts
 
@@ -64,8 +64,3 @@ export default {
 2. Front End Redux Store Setup
 3. OIDC Login BE
 4. MySQL Configuration
-
-
-
-
-
