@@ -31,7 +31,7 @@ const App = () => {
     getData();
   }, []);
   return (
-    <div className="bg-white mx-5 my-5 w-full grid grid-cols-4 gap-x-0 gap-y-4 ">
+    <div className="bg-white mx-5 my-5 w-full grid xl:grid-cols-4 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1 gap-x-4 gap-y-4 ">
       {
           drugs.map( drug => <Card drug={drug} key={drug.id}/>)
       }
